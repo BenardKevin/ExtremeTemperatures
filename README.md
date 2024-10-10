@@ -1,0 +1,2 @@
+# Java exercise: “Les températures extrêmes"
+A meteorological center asks you to develop a program that can record temperatures temperatures over several days in different cities. The program must store the temperatures in a two-dimensional array, and then display the highest and lowest temperatures recorded.
